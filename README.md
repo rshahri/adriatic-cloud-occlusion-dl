@@ -1,4 +1,4 @@
-# Adriatic Cloud Occlusion Detection (Deep Learning)
+# Adriatic Cloud Occlusion Detection
 
 ## Overview
 
