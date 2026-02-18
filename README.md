@@ -67,5 +67,3 @@ cd adriatic-cloud-occlusion-dl
 - NumPy
 - Matplotlib
 - Scikit-learn
-## Repository Structure
-
